@@ -1,0 +1,77 @@
+body {
+    background: #262626;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color:#000;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    position: absolute;
+  }
+  .swiper-container {
+    width: 80%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    background: #fff;
+  }
+  .musicNavLeft{
+   margin-left: 650px;
+   padding: 0 50px;
+  }
+  .jumu{
+    position: relative;
+    top: 90px;
+    margin-bottom: 50px;
+  }
+  .musicSecondNav{
+    position: relative;
+    width: 100%;
+    top: -20px;
+    border-radius: 0;
+
+  }
+  .musicNavLowLeft{
+  margin-left: 630px;
+   padding: 0 50px;
+  }
+  .form1 a{
+    color: #fff;
+  }
+  .song{
+    color: #fff;
+    text-align: center;
+    margin-top: 150px;
+  }
+  .songrow{
+    width: 600px;
+    color: #fff;
+    margin: 0 100px;
+    margin-top: 50px;
+    margin-left: 700px;
+  }
+  .songRank h1{
+    color: #fff;
+    text-align: center;
+    margin-top: 80px;
+  }
+  .rankgroup{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .ranklist{
+    width: 200px;
+    height: 300px;
+    background: #fff;
+    margin: 50px 30px;
+    margin-bottom: 100px;
+  }
+ 
+ 
